@@ -2,6 +2,7 @@
 ## Day 1: 
 
 Day 1 started with a lot of enthusiasm. I was really excited to go to the college. The college started on a positive note seeking the blessing of the Waheguru with Shabad Kirtan and Ardaas at the college Gurudwara. 
+<br>
 Afterwards, at the college auditorium, **IAS Harleen Kaur** was the first speaker of the day. She taught us that we can grab opportunities only if we are looking for them. She also shared about four major skills which every student should learn during their college time which include Subject Skills, Language Skills, People Skills & Life Skills. 
 <br>
 Then, **Principal Dr. Sehijpal Singh** shared his words of wisdom with the us. He shared about process by which we can learn skills during their time at the college, how we should be learning for the next four years. 
@@ -29,17 +30,21 @@ Then, **Dr. Hardeep Singh Rai**, Controller of Examination, shared his experienc
 ## Day 3: 
 
 Day 3 again started in the Auditorium. **Dr. Randhir Singh** was first speaker of the day. He briefed us about Induction Program and various criteria for passing it. He explained that all the students need to pass a English Proficiency Test, Mathematics Test, submit an e-certificate in any course and a report about experience at GNDEC using Github Pages, which was earlier only limited to students of Code GNE. He also told students about the upcoming Mid Semester Examinations and marks distrubution for it. 
+<br>
 Then, **Dr. Pyara Lal Garg**, Former Paediatric Surgery Professor, addressed the students. He told us that the times have changed but one thing that has not changed is the learning attitude of humans. It has been the biggest reasons behind enormous developments that the mankind has been able to make. He also explained that you are bound to face problems when you start. But once you have started and you are determined enough to do it, you can achieve any goal in your life. He said that we always look for the negatives while ignoring the positive side. When we start looking at the positive side of the matter, the life becomes much better. He explained that we must never blame someone before introspecting ourselves. 
 <br>
 Afterwards, **Mr. Sony Goyal**, Founder of Mission CAT and a motivation speaker, provided clear guidance about setting and achieving our goals. He provided us with two success mantras: 
 1. Always Give your 100%
 2. Do what you love and love what you do
 
-He also spoke about another mantra called LIFE:
+He also shared another mantra called LIFE:
 
 **L**earn
+<br> 
 **I**nquire
+<br>
 **F**uture
+<br>
 **E**xplore
-
+<br>
 The final speaker of the day was Mr. Pancham Singh, a fourth-year Mechanical Engineering student at GNE. He provided insights on body language, explaining **7-38-55 rule** which means that words convey only 7% of a message, while voice tone and body language account for 38% and 55%, respectively. He also presented a few slides on how to interpret what another person's body language is communicating, such as whether they are aggressive, defensive, interested, or disinterested in listening. He also shared how to identify between real and fake smiles. 
