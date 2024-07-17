@@ -46,5 +46,12 @@ He also shared another mantra called LIFE:
 **F**uture
 <br>
 **E**xplore
-<br>
+
 The final speaker of the day was Mr. Pancham Singh, a fourth-year Mechanical Engineering student at GNE. He provided insights on body language, explaining **7-38-55 rule** which means that words convey only 7% of a message, while voice tone and body language account for 38% and 55%, respectively. He also presented a few slides on how to interpret what another person's body language is communicating, such as whether they are aggressive, defensive, interested, or disinterested in listening. He also shared how to identify between real and fake smiles. 
+
+
+## Day 4: 
+
+We were having our classes on Day 4. The first class of the day was of English. Sir and Ma'am told us to introduce ourselves to the class. But before that, they gave us some time to prepare for it. Some of the students gave their introduction to the class and the teachers gave their honest opinion on it so that they can improve it. I also prepared my introduction but did not get the chance to speak it as the time was limited. I also learnt a new phrase ""Break the Ice"" which means to say or do something that makes others relaxed. 
+
+The second class was of Public Speaking conducted by Mr Panchan Singh, 4th year Mechanical Student. He also told us to prepare a topic of our choice in any language and speak on it for 3 minutes infront of the class. I prepared it on my journey as a cricket fan. He shared some public speaking basics and answered my question about how to capture the audience's attention.
