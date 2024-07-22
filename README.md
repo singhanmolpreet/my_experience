@@ -78,5 +78,13 @@ At last, Er. Jasvir Singh Grewal, Co-ordinator, NSS, conducted a session on NSS.
 
 ## Day 6: 
 
-Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. 
+Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. She started the session with an act showing four different candidates appearing for a job interview. Candidate 1 was possessed good skills but was arrogant. Second Candidate was under-confidence. Third and Fourth Candidate possessed both skills and confidence and also behaved properly. This act showed the importance of good behaviour and confidence not just in job interview but in the real world as well. Then she explained about the Circle of Life revolving around 'C'. 
 
+```mermaid
+flowchart TD
+    A(Childhood) ---> B(Campus)
+    B ---> C(College)
+    C ---> D(Career)
+    D ---> E(Compensation)
+    E ---> A
+```
