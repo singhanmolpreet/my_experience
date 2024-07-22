@@ -78,5 +78,5 @@ At last, Er. Jasvir Singh Grewal, Co-ordinator, NSS, conducted a session on NSS.
 
 ## Day 6: 
 
-
+Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. 
 
