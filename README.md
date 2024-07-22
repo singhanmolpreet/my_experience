@@ -78,6 +78,22 @@ At last, Er. Jasvir Singh Grewal, Co-ordinator, NSS, conducted a session on NSS.
 
 ## Day 6: 
 
-Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. She started the session with an act showing four different candidates appearing for a job interview. Candidate 1 was possessed good skills but was arrogant. Second Candidate was under-confidence. Third and Fourth Candidate possessed both skills and confidence and also behaved properly. This act showed the importance of good behaviour and confidence not just in job interview but in the real world as well. Then she explained about the Circle of Life revolving around 'C'. 
+Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. She started the session with an act showing four different candidates appearing for a job interview. Candidate 1 was possessed good skills but was arrogant. Second Candidate was under-confidence. Third and Fourth Candidate possessed both skills and confidence and also behaved properly. This act showed the importance of good behaviour and confidence not just in job interview but in the real world as well. Then she explained about the Circle of Life revolving around 'C'. Childhood ---> Campus ---> College ---> Career ---> Compensation. She also explained the importance of Soft Skills in life which was earlier demonstrated through the act as well. 
+
+Afterwards, Jaswinder Singh, Incharge, IAPT, interacted with the students. He demonstrated several physics experiment live on stage and explained the physics behind them. He gave us all a unique trick to remember the number of bones in human body and their distributions. The trick was **26-27-28**. 
+
+26 bones in each foot (52 in both)
+27 bones in each hand (54 in both)
+28 bones in human skull 
+26+26 = 52 bones in chest and back
+5 bones in each arm and each leg 
+All this adds to total 206 bones in human body. 
+
+He also demonstrated how electrostatics force is more powerful than gravity. For this, he used a balloon and a plumbers tape. He charged the balloons by rubbing it against his hand and the tape by rubbiing it with fingers. The balloon was attracted towards the other side of tape which was oppositely charged and remained in air with only support from tape which proves that electrostatics force is more powerful than gravity. He conducted several experiments including explaining lens and surface tension. It was a mind blowing session with him and everyone enjoyed a lot. 
+
+At last, we had a department vist and interaction. We went to the Computer Science department building and the teacher took us to the respective rooms according to our sections. Firstly, we were given a presentation about the department and the alumni from our department. We were given instructions about how we should be spending our next 4 years, examinations, internships and placements. We were also briefed about two societies being run by the department: The Computer Society of India - GNDEC and The Data Science Club. We were also given a complete tour of the labs and the server room. This was the first time, I was watching a server room physically. 
+
+
+
 
 
