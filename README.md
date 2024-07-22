@@ -78,7 +78,9 @@ At last, Er. Jasvir Singh Grewal, Co-ordinator, NSS, conducted a session on NSS.
 
 ## Day 6: 
 
-Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. She started the session with an act showing four different candidates appearing for a job interview. Candidate 1 was possessed good skills but was arrogant. Second Candidate was under-confidence. Third and Fourth Candidate possessed both skills and confidence and also behaved properly. This act showed the importance of good behaviour and confidence not just in job interview but in the real world as well. Then she explained about the Circle of Life revolving around 'C'. Childhood ---> Campus ---> College ---> Career ---> Compensation. She also explained the importance of Soft Skills in life which was earlier demonstrated through the act as well. 
+Day 6 started in the auditorium with a lecture from Er. Kanwardeep Kalra. She started the session with an act showing four different candidates appearing for a job interview. Candidate 1 was possessed good skills but was arrogant. Second Candidate was under-confidence. Third and Fourth Candidate possessed both skills and confidence and also behaved properly. This act showed the importance of good behaviour and confidence not just in job interview but in the real world as well. She explained the importance of Soft Skills in life which was earlier demonstrated through the act as well. Then, she explained about the Circle of Life revolving around 'C'. 
+
+Childhood ---> Campus ---> College ---> Career ---> Compensation. 
 
 Afterwards, Jaswinder Singh, Incharge, IAPT, interacted with the students. He demonstrated several physics experiment live on stage and explained the physics behind them. He gave us all a unique trick to remember the number of bones in human body and their distributions. The trick was **26-27-28**. 
 
