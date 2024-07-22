@@ -54,3 +54,29 @@ The final speaker of the day was Mr. Pancham Singh, a fourth-year Mechanical Eng
 We were having our classes on Day 4. The first class of the day was of English. Sir and Ma'am told us to introduce ourselves to the class. But before that, they gave us some time to prepare for it. Some of the students gave their introduction to the class and the teachers gave their honest opinion on it so that they can improve it. I also prepared my introduction but did not get the chance to speak it as the time was limited. I also learnt a new phrase **Break the Ice** which means to say or do something that makes others relaxed. 
 
 The second class was of Public Speaking conducted by Mr Panchan Singh, 4th year Mechanical Student. He also told us to prepare a topic of our choice in any language and speak on it for 3 minutes infront of the class. I prepared it on my journey as a cricket fan. He shared some public speaking basics and answered my question about how to capture the audience's attention.
+
+## Day 5:
+
+On Day 5, firstly, we were having a peer interaction on Canva. Our seniors introduced us to Canva which is a free to use online graphics tool. They taught us the basics of Canva, how we can create our own templates or edit the existing ones to create visually appealing designs which can be used for commercial purposes as well. We were also asked to make our own template and submit it via Google Forms. 
+
+Then, we headed to Workshop Hall for Mathematics Class. The teacher taught us some concepts of integration which includes ILATE rule for integrating two different functions in multiplication, Partial Fractions etc. He also gave us some questions to practice. 
+
+After that, we went to the Auditorium Hall for a session on NCC and NSS. Dr. Harwinder Singh, Associate Officer, NCC, explained us about the NCC. He explained the importance of co-curricular and extra-curricular activities alongside academics. Co-curricular and extra-curricular activities are as important as academics for overall development but participation in these activities should not come at the cost of academics. He briefed us about the camps that take place in and outside the college for NCC cadets. He also explained about 10 Core Life Skills recommended by WHO: 
+
+1. Self-awareness
+2. Empathy
+3. Critical thinking
+4. Creative thinking
+5. Decision making
+6. Problem Solving
+7. Effective communication
+8. Interpersonal relationship
+9. Coping with stress
+10. Coping with emotions
+
+At last, Er. Jasvir Singh Grewal, Co-ordinator, NSS, conducted a session on NSS. He gave example of Bhai Kanhaiya Ji who gave water to all the thirsty troops during war including the enemy troops. Some Sikhs complained about this to Guru Gobind Singh Ji and Guru Ji called Bhai Kanhaiya Ji. WHen Bhai Ji came, Guru Ji asked, "Is it true what I have heard? Are you giving water to the enemy?" Bhai Kanhaiya​​​​​​​ Ji replied, "O My Beloved Guru Ji, yes it is true. When I look into the faces of all these wounded men, all I see is you. I have to serve them because all I see is you and God in them." Guru Gobind Singh was very happy hearing him and smiled as he said, "You are right and you have shown me today that you really understand the Guru's words and live them." Guru Ji then announced to all his Khalsa: "Bhai Kanhaiya​​​​​​​ has understood the teachings correctly. My Beloved Sikhs, try all you can to learn like this. The lessons that Gurbani teaches are priceless." Guru Ji then gave some herbal medicine to Bhai Kanhaiya​​​​​​​ and told him, "From now on, put this on the wounds of all those who need it." And Bhai Kanhaiya​​​​​​​ began using this salve to serve all the wounded on the battlefield with love. He gave us this example to motivate us to be a part of NSS and do our part for the betterment of the society. He also told us about NSS's initiatives like Planting Trees, Blood Donation Camps, Rain Water Harvesting etc. He also said that we should not only plant more tress but also care for them. Their survival is important. 
+
+## Day 6: 
+
+
+
