@@ -102,7 +102,7 @@ At last, we had a department vist and interaction. We went to the Computer Scien
 
 ## Day 7: 
 
-On Day 7, we were having classes. Our first class was of Mathematics. In the class, the teacher taught us about differential equations. He taught the concepts of Variable Separable Differential Equation, Homogeneous Equation, Linear Differential Equation and . He also discussed several questions on these topics in the class to strengthen our knowledge of the concept. 
+On Day 7, we were having classes. Our first class was of Mathematics. In the class, the teacher taught us about differential equations. He taught the concepts of Variable Separable Differential Equation, Homogeneous Differential Equation and Linear Differential Equation. He also discussed several questions on these topics in the class to strengthen our knowledge of the concept. 
 
 Afterwards, we were having a Peer Interaction about College. One of our senior from 2nd year conducted this interaction. He told us about the common mistakes students make in the first year, examination pattern, what to do and what not and the importance of first year. He shared his experience on how the new students should study and get good marks in the examinations. 
 
