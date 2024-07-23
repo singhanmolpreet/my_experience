@@ -100,6 +100,11 @@ He also demonstrated how electrostatics force is more powerful than gravity. For
 
 At last, we had a department vist and interaction. We went to the Computer Science department building and the teacher took us to the respective rooms according to our sections. Firstly, we were given a presentation about the department and the alumni from our department. We were given instructions about how we should be spending our next 4 years, examinations, internships and placements. We were also briefed about two societies being run by the department: The Computer Society of India - GNDEC and The Data Science Club. We were also given a complete tour of the labs and the server room. This was the first time, I was watching a server room physically. 
 
+## Day 7: 
+
+On Day 7, we were having classes. Our first class was of Mathematics. In the class, the teacher taught us about differential equations. He taught the concepts of Variable Separable Differential Equation, Homogeneous Equation, Linear Differential Equation and . He also discussed several questions on these topics in the class to strengthen our knowledge of the concept. 
+
+Afterwards, we were having a Peer Interaction about College. One of our senior from 2nd year conducted this interaction. He told us about the common mistakes students make in the first year, examination pattern, what to do and what not and the importance of first year. He shared his experience on how the new students should study and get good marks in the examinations. 
 
 
 
