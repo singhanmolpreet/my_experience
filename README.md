@@ -112,7 +112,7 @@ Afterwards, we were having a Peer Interaction about College. One of our senior f
 
 At last, we had a session on Causmic Club. Members of the club briefed us about the club. It is made and managed by 1st year students. It organises two mega events APEX and ACME. APEX is an inter-school competition where a number of different schools participate in different activities and ACME is an inter-college competitions. All the activities in these events are organised and managed by students. There are 5 different types of teams in the club:
 
-1.Event Management Team : The Event Management Team is responsible for organizing a diverse range of activities and events. Following are the tasks you will be given as a member of this team:
+1. Event Management Team : The Event Management Team is responsible for organizing a diverse range of activities and events. Following are the tasks you will be given as a member of this team:
 * Event Planning
 * Assigning duties to other team members
 * Deciding the schedule, date, and venues
