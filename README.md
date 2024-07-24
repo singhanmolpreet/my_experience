@@ -106,6 +106,39 @@ On Day 7, we were having classes. Our first class was of Mathematics. In the cla
 
 Afterwards, we were having a Peer Interaction about College. One of our senior from 2nd year conducted this interaction. He told us about the common mistakes students make in the first year, examination pattern, what to do and what not and the importance of first year. He shared his experience on how the new students should study and get good marks in the examinations. 
 
+## Day 8: 
 
 
+
+At last, we had a session on Causmic Club. Members of the club briefed us about the club. It is made and managed by 1st year students. It organises two mega events APEX and ACME. APEX is an inter-school competition where a number of different schools participate in different activities and ACME is an inter-college competitions. All the activities in these events are organised and managed by students. There are 5 different types of teams in the club:
+
+1.Event Management Team : The Event Management Team is responsible for organizing a diverse range of activities and events. Following are the tasks you will be given as a member of this team:
+* Event Planning
+* Assigning duties to other team members
+* Deciding the schedule, date, and venues
+* Paperwork (includes leave applications, permissions, purchase bills, etc.)
+
+2. Technical Team : The Technical Team assumes a crucial role in leveraging technology to amplify the club's impact and facilitate its operations. Here are some duties you will perform in this team:
+* Managing the club's website (using Drupal CMS)
+* Creating Google Forms and managing data
+* Organizing various workshops on topics like web development, programming, technology, etc.
+* Managing the Discord server and other social media platforms
+
+3. Creative Team : The Creative Team is entrusted with a range of duties, including the design of posters, banners, and digital content to proficiently promote club activities. Some duties performed by the creative team are:
+* Coming up with ideas for events
+* Creating social media posts, posters, and presentations
+* Photography and Videography to cover large-scale events
+* Writing brochures, captions, and articles for the club
+
+4. Anchoring Team : The Anchoring Team plays a pivotal role in hosting and presenting events, ensuring smooth communication and engagement with the audience. Responsibilities include:
+* Hosting Events - Serve as the main presenter for club events, engaging and entertaining the audience.
+* Script Writing - Develop and refine scripts for events to ensure clarity and coherence.
+* Coordination - Work closely with the Event Management Team to ensure events run smoothly.
+* Audience Interaction - Facilitate audience participation and maintain energy levels throughout events.
+
+5. Photography Team : The Photography Team captures the essence of the club's activities, preserving memories and promoting events through visual storytelling. Responsibilities include:
+* Event Coverage - Capture high-quality photos and videos of all club events.
+* Editing - Edit and enhance photos and videos to ensure professional quality.
+* Archiving - Organize and maintain a digital archive of all visual content for future use.
+* Creative Input - Collaborate with the Creative Team to produce visually appealing content for social media and promotional materials.
 
