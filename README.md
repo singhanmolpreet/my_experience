@@ -1,4 +1,5 @@
 # My Experience at GNDEC
+
 ## Day 1: 
 
 Day 1 started with a lot of enthusiasm. I was really excited to go to the college. The college started on a positive note seeking the blessing of the Waheguru with Shabad Kirtan and Ardaas at the college Gurudwara. 
@@ -122,4 +123,24 @@ At last, we had a **session on Causmic Club.** Members of the club briefed us ab
 
 ## Day 9
 
-On Day 9, firstly, we were having Peer to Peer Interaction on Excel and Artificial Intelligence. They talked about AI vs Generative AI
+On Day 9, firstly, we were having **Peer to Peer Interaction on Excel and Artificial Intelligence.** They talked about AI vs Generative AI and explained that AI excels at  solving well-defined problems, performing repetitive tasks, and making precise calculations and predictions whereas Generative AI generates original content, like images, text, music, video, or software code, based on patterns it identifies in large data sets. They also explained different types of Machine Learning: Supervised, Unsupervised and Reinforced Learning. In supervised learning, there is a well defined named dataset while in unsupervised learning, there is no well defined dataset. In Reinforced Learning, algorithms learn to react to an environment on their own. It is rapidly growing and moreover producing a variety of learning algorithms. Then, they taught us about Several Excel Commands such as
+
+1. SUM
+2. SUMIF
+3. COUNT
+4. COUNTA
+5. COUNTBLANK
+6. WELOOKUP
+
+Afterwards, we had a **Mathematics Test of Differentiation, Integration and Differential Equation.**
+
+## Day 10
+
+This was the last day of Student Induction Program. The first speaker of the day was **Dr. Kanwalpreet Kaur Bhatt, Homeopathic Practitioner and Meditation Counsellor.** She shared her valuable insights on health and meditation with us. She told us that emotions have a strong impact on our health. When our emotions are out of balance, it often affects our bodies and can lead to various illnesses. For example, feeling stressed or anxious for a long time can cause headaches, stomach problems, or even more serious conditions like high blood pressure. Keeping our emotions in check is important for staying healthy. She also showed us a video on how to do meditation in the right way and how effective it can be for healing our body. After the video was finished, she told all of us to do meditation for around 15 minutes and taught us the right method to meditate practically. She also recommended two books which we should read: Secret Book and The Power of Sub-Conscious Mind. 
+
+Afterwards, the Cultural Activities Club of the College organised an event. The event started with Shabad Kirtan. Then Dr. Sehijpal Singh, Principal, GNDEC addressied the students. He appreciated all the students for their participation in the Student Induction Program. He also honored all the Teachers and Students who were invovled in organising the Student Induction Program for their great efforts and organising such a grand event successfully. He also advised us to work hard to achieve a big milestone in life. After that, Solo Singing and Dancing Competitions were held and all the participants performed really well and gave their best. The induction program concluded with all the winning students getting honored. 
+
+
+Overall, it was a great experience for me to be a part of the Student Induction Program. I learnt several things from the different speakers and also enjoyed the different activities held by the different societies of the college. 
+
+
