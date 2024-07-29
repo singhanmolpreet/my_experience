@@ -108,37 +108,18 @@ Afterwards, we were having a Peer Interaction about College. One of our senior f
 
 ## Day 8: 
 
+The First Speaker of the day was **Mr. Gauravdeep Singh, Founder & Chairman, Initiators of Change.** He shared his life story, from failures to success and how difficulties in his life led to the start of Initiators of Change, a national award winning non profit charitable organisation working on leadership development, education for all, social-political awareness of youth and disaster management in the states of Punjab and Delhi. He pointed out that we tend to focus on our flaws and shortcomings, overlooking our positive qualities. He also said that God does everything for a greater good. He shared his story when he had to drop out of College due to financial instability in his house but then he pursued his education in a government college in Ludhiana and got the idea to start an NGO for the society. Then, he started **Initiators of Change** in 2015 with just four members and today the foundation has over 3000 members and has been helping thousands of people in Punjab and Delhi. They have adopted 100 schools and changed the lives of over 5000 students. His session was indeed very knowledgable and changed my view point towards life. 
 
+Afterwards, **Er. Lakhveer Singh, Coordinator, Centre for Multi-Faceted Learning (CML)** condducted a session on CML and NPTEL. He first briefed students about CML and how one can transform their personality by participating in the activities conducted by CML. He also told students about NPTEL, an online learning platform by Government of India. The content for NPTEL is made by Professors from Top IITs of India on a number of different subjects. He also demonstrated how to make an account and enroll for a course on NPTEL. He stated that NPTEL can a great free learning platform for students to learn new skills from top educators of India. 
 
-At last, we had a session on Causmic Club. Members of the club briefed us about the club. It is made and managed by 1st year students. It organises two mega events APEX and ACME. APEX is an inter-school competition where a number of different schools participate in different activities and ACME is an inter-college competitions. All the activities in these events are organised and managed by students. There are 5 different types of teams in the club:
+At last, we had a **session on Causmic Club.** Members of the club briefed us about the club. It is made and managed by 1st year students. It organises two mega events APEX and ACME. APEX is an inter-school competition where a number of different schools participate in different activities and ACME is an inter-college competitions. All the activities in these events are organised and managed by students. There are 5 different types of teams in the club:
 
-1. Event Management Team : The Event Management Team is responsible for organizing a diverse range of activities and events. Following are the tasks you will be given as a member of this team:
-* Event Planning
-* Assigning duties to other team members
-* Deciding the schedule, date, and venues
-* Paperwork (includes leave applications, permissions, purchase bills, etc.)
+1. Event Management Team
+2. Technical Team 
+3. Creative Team
+4. Anchoring Team
+5. Photography Team
 
-2. Technical Team : The Technical Team assumes a crucial role in leveraging technology to amplify the club's impact and facilitate its operations. Here are some duties you will perform in this team:
-* Managing the club's website (using Drupal CMS)
-* Creating Google Forms and managing data
-* Organizing various workshops on topics like web development, programming, technology, etc.
-* Managing the Discord server and other social media platforms
+## Day 9
 
-3. Creative Team : The Creative Team is entrusted with a range of duties, including the design of posters, banners, and digital content to proficiently promote club activities. Some duties performed by the creative team are:
-* Coming up with ideas for events
-* Creating social media posts, posters, and presentations
-* Photography and Videography to cover large-scale events
-* Writing brochures, captions, and articles for the club
-
-4. Anchoring Team : The Anchoring Team plays a pivotal role in hosting and presenting events, ensuring smooth communication and engagement with the audience. Responsibilities include:
-* Hosting Events - Serve as the main presenter for club events, engaging and entertaining the audience.
-* Script Writing - Develop and refine scripts for events to ensure clarity and coherence.
-* Coordination - Work closely with the Event Management Team to ensure events run smoothly.
-* Audience Interaction - Facilitate audience participation and maintain energy levels throughout events.
-
-5. Photography Team : The Photography Team captures the essence of the club's activities, preserving memories and promoting events through visual storytelling. Responsibilities include:
-* Event Coverage - Capture high-quality photos and videos of all club events.
-* Editing - Edit and enhance photos and videos to ensure professional quality.
-* Archiving - Organize and maintain a digital archive of all visual content for future use.
-* Creative Input - Collaborate with the Creative Team to produce visually appealing content for social media and promotional materials.
-
+On Day 9, firstly, we were having Peer to Peer Interaction on Excel and Artificial Intelligence. They talked about AI vs Generative AI
