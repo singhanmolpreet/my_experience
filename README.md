@@ -130,7 +130,7 @@ On Day 9, firstly, we were having **Peer to Peer Interaction on Excel and Artifi
 3. COUNT
 4. COUNTA
 5. COUNTBLANK
-6. WELOOKUP
+6. VLOOKUP
 
 Afterwards, we had a **Mathematics Test of Differentiation, Integration and Differential Equation.**
 
